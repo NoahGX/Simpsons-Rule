@@ -1,4 +1,4 @@
-# Pi Calculation using Simpson's Rule
+# PI Calculation using Simpson's Rule
 
 ## Overview
 This project implements three separate C programs that approximate the value of π (Pi) using Simpson's method. Each program uses a different parallel computing approach to perform the calculations: serial processing, mutex-based synchronization, and semaphore-based synchronization.
@@ -11,7 +11,7 @@ This project implements three separate C programs that approximate the value of 
 
 ## Usage
 To compile and run all programs, use the provided Makefile:
-  ```bash
+  ```
   make all
   ```
 
