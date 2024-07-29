@@ -24,4 +24,4 @@ run:
 
 # remove makefiles
 clean:
-	rm -f pi_serial pi_mutex pi_semaphore
+	rm pi_serial pi_mutex pi_semaphore
